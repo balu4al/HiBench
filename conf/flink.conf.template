@@ -6,3 +6,6 @@ hibench.flink.master                             HOSTNAME:PORT
 hibench.streambench.flink.parallelism            20
 hibench.streambench.flink.bufferTimeout          10
 hibench.streambench.flink.checkpointDuration     1000
+
+
+sample = sample
